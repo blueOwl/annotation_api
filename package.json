@@ -68,7 +68,7 @@
     "ngx-cookie-service": "2.1.0",
     "node-bourbon": "^4.2.8",
     "perfect-scrollbar": "1.4.0",
-    "prismjs": "1.16.0",
+    "prismjs": "1.23.0",
     "request": "^2.88.0",
     "rxjs": "6.5.1",
     "rxjs-compat": "6.5.1",
